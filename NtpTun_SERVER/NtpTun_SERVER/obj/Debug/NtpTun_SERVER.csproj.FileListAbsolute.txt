@@ -1,0 +1,14 @@
+C:\Users\nguye\OneDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.exe.config
+C:\Users\nguye\OneDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.exe
+C:\Users\nguye\OneDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.pdb
+C:\Users\nguye\OneDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.exe
+C:\Users\nguye\OneDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.pdb
+C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.exe.config
+C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.exe
+C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.pdb
+C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.csprojAssemblyReference.cache
+C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.exe
+C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.pdb
