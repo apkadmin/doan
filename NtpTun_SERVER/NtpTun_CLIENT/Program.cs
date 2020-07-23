@@ -33,13 +33,12 @@ namespace NtpTun_Client
             if(contents.Length %17 != 0)
             {
                 String temp = "------------------";
-                contents = contents + temp.Substring(0, contents.Length % 17);
+                contents = contents + temp.Substring(0,17 - contents.Length % 17);
             };
-           
+
             foreach (var cb in Encoding.ASCII.GetBytes(contents))
             {
-               
-                if (ctr == BYTE_CNT)
+                if (ctr == BYTE_CNT - 1 )
                 {
                     byte[] bf = new byte[BYTE_CNT];
                     current.CopyTo(bf, 0);

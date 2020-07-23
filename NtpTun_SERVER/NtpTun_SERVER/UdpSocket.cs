@@ -30,8 +30,8 @@ namespace NtpTun_SERVER
         {
             _socket.SetSocketOption(SocketOptionLevel.IP, SocketOptionName.ReuseAddress, true);
             _socket.Bind(new IPEndPoint(IPAddress.Any, port));
-            _Callback = callback;
             s_Reply = rep_cb;
+            _Callback = callback;
             Receive();
         }
 
@@ -59,10 +59,7 @@ namespace NtpTun_SERVER
                 State so = (State)ar.AsyncState;
                 int bytes = _socket.EndReceiveFrom(ar, ref epFrom);
                 _socket.BeginReceiveFrom(so.buffer, 0, buffsize, SocketFlags.None, ref epFrom, recv, so);
-                Thread.Sleep(200);
                 _Callback(so.buffer);
-                //s_Reply(so.buffer[5]);
-                //Console.WriteLine("RECV: {0}: {1}, {2}", epFrom.ToString(), bytes, Encoding.ASCII.GetString(so.buffer, 0, bytes));
             }, state);
         }
     }

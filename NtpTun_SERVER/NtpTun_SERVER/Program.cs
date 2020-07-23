@@ -72,16 +72,15 @@ static void t_func_c1(byte packet_id, UDPSocket ep)
 
 static void t_func_c0(byte[] data_ntp)
 {
-            Console.WriteLine(data_ntp);
             String _data = "";
-    for (int i = 0; i < data_ntp.Length; i++)
-    {
-        if (i == 5 || i == 0 || i == 1) continue;
-        if (data_ntp[i] == 0) continue;
-        _data += Encoding.ASCII.GetString(new byte[]{ data_ntp[i] });
-    }
-    Console.WriteLine(">  Packet caught. ID: " + data_ntp[5] + $"\r\nData: {_data}");
-}
+            for (int i = 0; i < data_ntp.Length; i++)
+            {
+                if (i == 5 || i == 0 || i == 1) continue;
+                if (data_ntp[i] == 0) continue;
+                _data += Encoding.ASCII.GetString(new byte[] { data_ntp[i] });
+            }
+            Console.WriteLine(">  Packet caught. ID: " + data_ntp[5] + $"\r\nData: {_data}");
+        }
 
-}
+    }
 }
