@@ -12,3 +12,10 @@ C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\
 C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.csproj.CoreCompileInputs.cache
 C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.exe
 C:\Users\An\SkyDrive\Documents\doan\XakepNtpTun\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.pdb
+C:\Users\nguye\Desktop\doan\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.exe.config
+C:\Users\nguye\Desktop\doan\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.exe
+C:\Users\nguye\Desktop\doan\NtpTun_SERVER\NtpTun_SERVER\bin\Debug\NtpTun_SERVER.pdb
+C:\Users\nguye\Desktop\doan\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\doan\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\doan\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.exe
+C:\Users\nguye\Desktop\doan\NtpTun_SERVER\NtpTun_SERVER\obj\Debug\NtpTun_SERVER.pdb
